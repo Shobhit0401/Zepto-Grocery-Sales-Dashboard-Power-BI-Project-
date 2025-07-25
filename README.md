@@ -78,7 +78,6 @@ This project simulates real business intelligence tasks such as **data transform
 - Power BI Case Study Demonstration
 - Business Intelligence Resume Project
 
----
 
 ## 🙌 Let's Connect
 
@@ -86,4 +85,5 @@ This project simulates real business intelligence tasks such as **data transform
 📫 Reach out for collaborations or freelance dashboard builds!
 
 ---
+![Image 26-07-25 at 00 49](https://github.com/user-attachments/assets/04595edc-0242-429e-8369-35d4b8b39fd2)
 
